@@ -1,7 +1,10 @@
 # BWAI Hackathon Nov 2021
-**Team Representative: Nitin Malik, Gurgaon, India
 
-Team Members: Nayonika Chakraborty, Meghana Kota, Anand Mayangankar
+**Team Representative: Nitin Malik, Gurgaon, India**
+
+**Team Members: Nayonika Chakraborty, Meghana Kota, Anand Mayangankar**
+
+**Mentors: Vikram Batchu, Betul O'Reilly**
 
 **Problem Statement**: Not everyone is interested in 9-5 job. Those who have entrepreneurship mindset would like to start up their own companies and be their own boss. But majority of them are skeptical to take first step as they are not confident of their competencies and skills.
 
