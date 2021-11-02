@@ -24,6 +24,4 @@ Revenue Model: Charging for the services and the detailed feedback offered to th
 Data collected from 198 Indian university students in 2019 by Utkarsh Sharma and Naman Manchanda. 
 Data Source: https://ieeexplore.ieee.org/abstract/document/9058292
 
-The inability of the regression line to touch all the training data points is called bias. A machine learning model with high bias pays little attention to the training data and oversimplifies the model. [click to tweet](https://clicktotweet.com/6Rcfz)
-
-The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py) and the [data file](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv) is on github.
+The [python code](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/binary-classifier.ipynb) and the [data file](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/data.csv) is on github.
