@@ -1,15 +1,18 @@
-# Pre-regression steps, Regression model, Post-regression analysis
-
-In regression (also known as function approximation), we are interested in predicting one (dependent) variable from one or more (independent) variables (of any datatype). If we have one independent variable it is simple regression e.g, predicting height from the weight. If there are more than one, it is multiple regression e.g. predicting height from weight and age.
-
-Regression implies causation. Change in the dependent variable is due to the change in the independent variable.
-
-Linear regression implies that the relationship between the dependent variable and independent variable is linear and thus can be described by a straight line known as the **regression line**. We are in the process of finding a regression line that fits (touches) the maximum number of data points (no. of data points = no. of records in dataset).
+# BWAI Hackathon Nov 2021
+**Team Representative: Nitin Malik, Gurgaon, India
+Team Members: Nayonika Chakraborty, Meghana Kota, Anand Mayangankar
+**Problem Statement**: Not everyone is interested in 9-5 job. Those who have entrepreneurship mindset would like to start up their own companies and be their own boss. But majority of them are skeptical to take first step as they are not confident of their competencies and skills.
+Existing Alternatives: Try to be an entrepreneur, if succeed it's good, otherwise do regular job
+**Proposed Solution**: Using Machine Learning classifiers to predict the entrepreneurial competency in University students
+Key metrics: Accuracy since classes are largely balanced
+Target Customer: University students
+Customer Pain: Not able to decide whether they should pursue entrepreneurship
+Customer Gain: They will be able to take a call to pursue entrepreneurship or not if they opted for our solution
+Unique value Proposition: One-stop solution. Just need to fill the details about their competencies
+Revenue Model: Charging for the services and the detailed feedback offered to the customers
+Data collected from 198 Indian university students in 2019 by Utkarsh Sharma and Naman Manchanda. 
+Data Source: https://ieeexplore.ieee.org/abstract/document/9058292
 
 The inability of the regression line to touch all the training data points is called bias. A machine learning model with high bias pays little attention to the training data and oversimplifies the model. [click to tweet](https://clicktotweet.com/6Rcfz)
-
-When the same regression model is run on the test dataset, the model performance metric is reevaluated. If the metric value on test data is less than that obtained on training data, the model is said to be **overfitting**. If it's other way around, then the model is said to be **underfitting**. This difference in fits (bias) between different datasets (training and testing dataset in our case) is called **variance**. Variance is related to a model failing to fit the test dataset. A model with high variance does not generalises well on the test dataset and is said to be overfitted.
-
-Continue reading at [linkedin](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/) 
 
 The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py) and the [data file](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv) is on github.
