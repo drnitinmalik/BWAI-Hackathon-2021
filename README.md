@@ -4,7 +4,7 @@
 
 **Team Members: Nayonika Chakraborty, Meghana Kota, Anand Mayangankar**
 
-**Mentors: Vikram Batchu, Betul O'Reilly**
+**Mentors from Oracle: Vikram Batchu, Betul O'Reilly**
 
 **Problem Statement**: Not everyone is interested in 9-5 job. Those who have entrepreneurship mindset would like to start up their own companies and be their own boss. But majority of them are skeptical to take first step as they are not confident of their competencies and skills.
 
@@ -28,3 +28,5 @@ Data collected from 198 Indian university students in 2019 by Utkarsh Sharma and
 Data Source: https://ieeexplore.ieee.org/abstract/document/9058292
 
 The [python code](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/binary-classifier.ipynb) and the [data file](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/data.csv) is on github.
+
+The participation badge is available at [badgr.com] (https://au.badgr.com/public/assertions/BK9jw0jIR0WdS5f4sFoicw)
