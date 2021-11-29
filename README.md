@@ -1,5 +1,7 @@
 # BWAI Hackathon Nov 2021
 
+We attempted Challenge 1: Predictive Analytics https://www.buildwithai.com/
+
 **Team Representative: Nitin Malik, Gurgaon, India**
 
 **Team Members: Nayonika Chakraborty, Meghana Kota, Anand Mayangankar**
