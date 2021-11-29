@@ -31,4 +31,6 @@ Data Source: https://ieeexplore.ieee.org/abstract/document/9058292
 
 The [python code](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/binary-classifier.ipynb) and the [data file](https://github.com/drnitinmalik/BWAI-Hackathon-2021/blob/main/data.csv) is on github.
 
+The video is available at [Youtube](https://www.youtube.com/watch?v=nkE5VjYhLyM&t=5s)
+
 The participation badge is available at [badgr.com] (https://au.badgr.com/public/assertions/BK9jw0jIR0WdS5f4sFoicw)
